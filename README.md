@@ -7,4 +7,4 @@
 
 在芝士漫画中导入此图源地址：
 
-https://github.com/ChenX95/ZSComic/blob/main/data.json
+https://github.com/ChenX95/ZSComic/blob/main/data

@@ -7,6 +7,8 @@
 
 在芝士漫画中导入此图源地址：
 
+https://raw.githubusercontent.com/ChenX95/ZSComic/main/data github地址，可能访问不到
+
 https://raw.iqiq.io/ChenX95/ZSComic/main/data  中国香港 CDN
 
 https://raw.fastgit.org/ChenX95/ZSComic/main/data  日本 CDN

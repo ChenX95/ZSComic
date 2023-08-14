@@ -11,4 +11,4 @@
 
 https://raw.githubusercontent.com/ChenX95/ZSComic/main/data github地址，可能访问不到
 
-http://raw.fastgit.org/ChenX95/ZSComic/main/data  日本 CDN
+https://raw.fastgit.org/ChenX95/ZSComic/main/data  日本 CDN

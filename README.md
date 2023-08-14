@@ -11,4 +11,4 @@
 
 raw.githubusercontent.com/ChenX95/ZSComic/main/data  地址1
 
-raw.fastgit.org/ChenX95/ZSComic/main/data  地址二
+raw.kgithub.com/ChenX95/ZSComic/main/data  地址二

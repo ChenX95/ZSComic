@@ -9,6 +9,6 @@
 
 在芝士漫画中导入此图源地址：
 
-raw.githubusercontent.com/ChenX95/ZSComic/main/data  github地址
+raw.githubusercontent.com/ChenX95/ZSComic/main/data  地址1
 
-raw.fastgit.org/ChenX95/ZSComic/main/data  日本 CDN
+raw.fastgit.org/ChenX95/ZSComic/main/data  地址二

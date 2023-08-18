@@ -7,8 +7,8 @@
 
 本项目为分享芝士漫画的图源，不是芝士漫画项目！！！
 
-在芝士漫画中导入此图源地址：
+在芝士漫画中导入此图源地址（不要把中文复制进去）：
 
-raw.githubusercontent.com/ChenX95/ZSComic/main/data  地址1
+地址1：raw.githubusercontent.com/ChenX95/ZSComic/main/data
 
-raw.kgithub.com/ChenX95/ZSComic/main/data  地址二
+地址二：raw.kgithub.com/ChenX95/ZSComic/main/data
